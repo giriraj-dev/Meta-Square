@@ -90,7 +90,7 @@ p {
 
 #showcase {
   background: #333 url("../img/building.jpg") no-repeat center/cover;
-  height: 100vh;
+  height: 50vh;
   color: #fff;
   position: relative;
 }
